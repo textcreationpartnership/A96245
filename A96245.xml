@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the Assembly of Divines upon the Thirty nine Articles of the Church of England</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96245</idno>
+            <idno type="STC">Wing W1444A</idno>
+            <idno type="STC">Thomason E516_3*</idno>
+            <idno type="STC">ESTC R206150</idno>
+            <idno type="EEBO-CITATION">99872570</idno>
+            <idno type="PROQUEST">99872570</idno>
+            <idno type="VID">164383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164383)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E516[3*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the Assembly of Divines upon the Thirty nine Articles of the Church of England</title>
+                  <author>Westminster Assembly</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproductions of the originals in the Huntington Library (Early English Books) and the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles --  Early works to 1800.</term>
+               <term>Church of England --  Creeds --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:164383:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Proceedings of the Aſſembly of Divines upon the Thirty nine Articles of the Church of ENGLAND.</head>
+            <opener>
+               <salute>To the honourable houſe of COMMONS aſſembled in Parliament.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Aſſembly at their firſt ſitting re<g ref="char:EOLhyphen"/>ceived an Order from both the ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament, bea<g ref="char:EOLhyphen"/>ring date <hi>July 5. 1643,</hi> requiring them to take into their conſideration the ten firſt Articles of the <hi>39</hi> Ar<g ref="char:EOLhyphen"/>ticles of the Church of <hi>England,</hi> to free and vindicate the Doctrine of them from all aſperſions and falſe interpretati<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. In obedience whereunto, they forthwith took the ſaid ten firſt Articles into conſideration. Afterward they received another Order for the nine next following; and accor<g ref="char:EOLhyphen"/>dingly took the ſame into conſideration. But being limited by both the ſaid Orders onely to the clearing and vindicating of them; though we found our ſelves neceſsitated for that
+<pb n="2" facs="tcp:164383:2"/>
+               <!-- PDF PAGE 14 -->end to make ſome, yet we made fewer alterations in them and additions to them, then otherwiſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve thought fit to have done, if the whole m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n left to us without ſuch limitation, conceiving many things yet remaining to be defective, and other expreſsions alſo fit to be changed. And herein we proceeded onely to the finiſh<g ref="char:EOLhyphen"/>ing of fifteen Articles, becauſe it pleaſed both Houſes by an Order hearing date <hi>Octob. 12. 1643,</hi> to require us to lay aſide the remainder, and enter upon the work of Church-Government: And afterward by another Order to employ us in framing a Confeſsion of Faith for the three King<g ref="char:EOLhyphen"/>doms, according to the Solemn League and Covenant: In which Confeſsion, we have not left out any thing that was in the former Articles material<g ref="char:punc">▪</g> neceſſary to be re<g ref="char:EOLhyphen"/>tained. Which having finiſhed, and preſented to both Houſes, we ſhould have forborn the tendering of theſe fifteen Articles (both as a Piece ſeveral ways imperfect, and the whole as relating onely to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) but that we were commanded otherwiſe by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> order of the honourable Houſe of Commons bearing date <hi>Dec. 7. 1646.</hi> According whereunto, we preſe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <div n="1" type="article">
+               <pb n="3" facs="tcp:164383:2"/>
+               <!-- PDF PAGE 14 -->
+               <head>
+                  <hi>ARTICLE I.</hi> Of Faith in the holy Trinity.</head>
+               <p>THere is but one<note n="a" place="margin">Iſai. 46.9. 1 Cor. 8.4, 6.</note> living and true God<note n="b" place="margin">Jer. 10.10. 1 Theſſ. 1 9.</note>, e<g ref="char:EOLhyphen"/>verlaſting<note n="c" place="margin">Pſal. 90.2. Rom. 16.26.</note>, without body, parts<note n="d" place="margin">Deut. 4.15, 16. Joh 4 24. with Luke 24.39.</note>, or paſſi<g ref="char:EOLhyphen"/>ons<note n="e" place="margin">Acts 14.15. Jam. 1.17.</note>; of infinite power<note n="f" place="margin">Jer. 32.17, 27. Mark 10.27.</note>, wiſdom<note n="g" place="margin">Pſal. 147.5. Rom. 11.33.</note>, and goodneſſe<note n="h" place="margin">Pſal. 1 19.68. with Matth. 19.17.</note>; the maker and preſerver of all things both viſible and inviſible<note n="i" place="margin">Neh. 9.6. Col. 1.16, 17.</note>. And in unity of this Godhead there be three Perſons, of one ſub<g ref="char:EOLhyphen"/>ſtance, power, and eternity; the Father, the Son, and the holy Ghoſt<note n="k" place="margin">Matth. 3 16, 17. Matth. 28.19. 1 Joh. 5.7. 2 Cor. 13.14.</note>.</p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>ART. 2.</hi> Of the Word, or Son of God, which was made very Man.</head>
+               <p>The Son, which is the Word of the Father, be<g ref="char:EOLhyphen"/>gotten from everlaſting of the Father<note n="a" place="margin">Prov. 8.22, to 31. Joh. 1.1, 2, 14.</note>, the very<note n="b" place="margin">1 Joh. 5.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. Rom. 9.5.</note> and eternal God<note n="c" place="margin">Joh. 17.5. Heb. 1.8. with Pſal. 45.6.</note>, of one ſubſtance with the Fa<g ref="char:EOLhyphen"/>ther<note n="d" place="margin">Joh. 10.30. Heb. 1.3.</note>, took mans nature in the womb of the bleſ<g ref="char:EOLhyphen"/>ſed Virgin, of her ſubſtance<note n="e" place="margin">Joh. 1.14. Iſa. 7.14. Luk. 1.35. Gal. 4.4.</note>. So that two whole and perfect natures, that is to ſay, the Godhead and the Manhood, were joyned together in one perſon,
+<pb n="4" facs="tcp:164383:3"/>
+                  <!-- PDF PAGE 15 -->never to be divided, whereof is one Chriſt very God and very Man<note n="f" place="margin">Iſa. 7.14. with Matth. 1.23. Rom. 1.3, 4. Heb. 13.8.</note>, who for our fakes truely ſuf<g ref="char:EOLhyphen"/>fered moſt grievous torments in his ſoul from God<note n="g" place="margin">Iſa. 53.10, 11. Mark 14.33, 34.</note>, was crucified, dead, and buried<note n="h" place="margin">1 Pet. 2.24. Phil. 2 8. 1 Cor. 15.3, 4.</note>, to re<g ref="char:EOLhyphen"/>concile his Father to us<note n="i" place="margin">Ezek. 16.63. Rom 3.25. 2 Cor. 5.19.</note>, and to be a Sacrifice, not onely for original guilt, but alſo for all actual ſins of men<note n="k" place="margin">Iſa. 53.10. Eph. 5.2. 1 Joh. 1.7. Heb. 9.26.</note>.</p>
+            </div>
+            <div n="3" type="article">
+               <head>ART. 3.</head>
+               <p>As Chriſt died for us, and was buried; ſo it is to be believed, that he continued in the ſtate of the dead, and under the power and dominion of death<note n="a" place="margin">Pſal. 16.10. with Acts 2.24, 25, 26, 27, 31.</note>, from the time of his death and burial, until his re<g ref="char:EOLhyphen"/>ſurrection<note n="b" place="margin">Rom. 6.9. Matth. 12.40.</note>: which hath been otherwiſe expreſſed thus, <hi>He went down into Hell.</hi>
+               </p>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>ART. 4.</hi> Of the Reſurrection of Chriſt.</head>
+               <p>Chriſt did truely riſe again from death<note n="a" place="margin">1 Cor. 15.4. Rom. 8 34. Pſal. 16.10. with Act. 2.31. Luke 24.34.</note>, and took again his body, with fleſh, bones, and all things appertaining to the perfection of mans nature<note n="b" place="margin">Luke 24.39. with Joh. 20.25, 27.</note>, wherewith he aſcended into heaven, and there fit<g ref="char:EOLhyphen"/>teth<note n="c" place="margin">Pſal. 68.18. with Epheſ. 4.8. Pſal. 110.1. with Act. 2.34, 35. Mar. 16.19. Rom. 8.34.</note>, until he return to judge<note n="d" place="margin">Act. 3.21. Pſal. 110.1. with 1 Cor. 15.25, 26. Act. 1.11.</note> all men<note n="e" place="margin">2 Cor. 5.10. Act. 17.31.</note> at the general reſurrection of the body at the laſt day<note n="f" place="margin">Exod. 3.6. with Luke 20.37, 38. Act. 24.14, 15. 1 Cor. 15.12, to the end. Joh. 5.28, 29.</note>.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="5" facs="tcp:164383:3"/>
+               <!-- PDF PAGE 15 -->
+               <head>
+                  <hi>ART. 5.</hi> Of the holy Ghoſt.</head>
+               <p>The holy Ghoſt is very and eternal God, of one ſubſtance<note n="a" place="margin">2 Sam. 23.2. with verſ. 3. Iſa 6.5, 8. with Acts 28.25. Acts 5.3, 4. 1 Cor. 3.16. 1 Cor. 6 19.</note>, majeſtie<note n="b" place="margin">Job 26.13. Job 33.4. 1 Cor. 12 chap. Matth 28.19. 2 Cor. 13.14.</note>, and glory with the Father and the Son<note n="c" place="margin">1 Cor. 12.11. Eph. 1.17, and 1 Cor. 2.8. with 1 Pet. 4.14.</note>, proceeding from the Father and the Son<note n="d" place="margin">Joh. 15.26. Matth. 10.20, and 1 Cor. 2.11, 12. with Gal. 4.6, and Rom. 8.9, and Phil. 1.19<g ref="char:punc">▪</g> Joh. 16.14. Iſai. 11.2. Iſai. 61.1. Gen. 1.2. 2 Chron. 15.1.</note>.</p>
+            </div>
+            <div n="6" type="article">
+               <head>
+                  <hi>ART. 6.</hi> Of the ſufficiency of the holy Scriptures for ſalvation.</head>
+               <p>Holy Scripture<note n="a" place="margin">Rom. 1.2. 2 Tim. 3.15. 2 Pet. 1.20, 21.</note> containeth all things neceſſary to ſalvation<note n="b" place="margin">Pſal. 19.7. 2 Tim. 3.15, 16, 17 Jam. 1.21, 25. Act. 20.32.</note>; ſo that whatſoever is not read therein, nor may be proved thereby, is not to be believed as an Article of Faith, or neceſſary to ſal<g ref="char:EOLhyphen"/>vation<note n="c" place="margin">Prov. 30.5, 6. Iſai. 8.20. Act. 26.22. with verſ. 20, 27. Gal. 1.8, 9. Joh. 5.39.</note>.</p>
+               <p>By the name of holy Scripture, we underſtand all the Canonical Books of the Old and New Teſta<g ref="char:EOLhyphen"/>ment; which follow.</p>
+               <list>
+                  <item>Of the Old Teſtament,<lb/>
+                     <hi>Geneſis, Exodus,</hi> &amp;c.</item>
+                  <item>Of the New Teſtament,<lb/>
+The Goſpel ac<g ref="char:EOLhyphen"/>cording to <hi>Matthew,</hi> &amp;c.</item>
+               </list>
+               <p>All which Books, as they are commonly recei<g ref="char:EOLhyphen"/>ved,
+<pb n="6" facs="tcp:164383:4"/>
+                  <!-- PDF PAGE 16 -->we do receive, and acknowledge them to be given by the inſpiration of God, and in that re<g ref="char:EOLhyphen"/>gard to be of moſt certain credit, and higheſt au<g ref="char:EOLhyphen"/>thority.</p>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>ART. 7.</hi> Of the Old Testament.</head>
+               <p>The Old Teſtament is not contrary to the New, in the doctrine contained in them<note n="a" place="margin">Acts 26.22, 23. 2 Pet. 3.2. Luke 24.44. Rom. 3.31. Gal. 3.21, 23, 24.</note>; for both in the Old and New Teſtament everlaſting life is of<g ref="char:EOLhyphen"/>fered to mankinde by Chriſt<note n="b" place="margin">Gen. 3.15. Gen. 22.18. with Gal. 3.8, 14. 1 Cor. 10.2, 3, 4. Luke 1.69, 70. Acts 3.24. Iſai. 53 chap.</note>, who is the onely Mediatour between God and man<note n="c" place="margin">Dan 9.17. Rom. 8.34. 1 Joh 2.1. Heb. 7.25. 1 Tim. 2.5. Joh. 14.6.</note>, being both God and Man<note n="d" place="margin">Gal. 4.4.5. Acts 20.28. Phil 2 7, 8.</note>. Wherefore they are not to be heard, which feign, that the old fathers did look onely for temporary promiſes<note n="e" place="margin">Acts 26 6, 7. Rom. 4.11. Gal. 3.9. Heb. 11.10, 16, 35<g ref="char:punc">▪</g>
+                  </note>.</p>
+               <p>Although the Law given from God by Moſes, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> touching Ceremonies and Rites, do not binde Chriſtians<note n="f" place="margin">Gal. 4.9, 10<g ref="char:punc">▪</g> Col. 2.14, 16, 17. Heb. 9.9, 10.</note>, nor the Civil precepts given by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> ſuch as were peculiarly fitted to the Common-wealth of the Jews, are of neceſſity to be received in any Common-wealth<note n="g" place="margin">Acts 29.9, 10, 25. with Deut. 17.8, to 13. Rom. 13.1, 5. Tit. 3.1. 1 Pet. 2.13, 14.</note>: yet notwithſtanding no Chriſtian man whatſoever is free from the obedi<g ref="char:EOLhyphen"/>ence of the Commandments which are called Mo<g ref="char:EOLhyphen"/>ral<note n="h" place="margin">Matth<g ref="char:punc">▪</g> 5.17, to the end. Rom. 13.8, 9, 10. Epheſ. 6.1, 2, 3. Jam. 2.8, 9, 10, 11, 12. Rom. 7.25: Rom. 3.31. Matth. 7.12.</note>. By the Moral Law we underſtand all the ten Commandments taken in their full extent.</p>
+            </div>
+            <div n="8" type="article">
+               <pb n="7" facs="tcp:164383:4"/>
+               <!-- PDF PAGE 16 -->
+               <head>
+                  <hi>ART. 8.</hi> Of the three Creeds.</head>
+               <p>The Creeds that go under the names of the <hi>Ni<g ref="char:EOLhyphen"/>cene Creed, Atha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſius Creed,</hi> and that which is commonly called <hi>The Apoſtles Creed,</hi> are thorow<g ref="char:EOLhyphen"/>ly to be received and believed, for that they may be proved by moſt certain warrant of holy Scripture.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>ART. 9.</hi> Of Original, or Birth-ſin.</head>
+               <p>Original ſin<note n="a" place="margin">Pſal. 51.5. Joh. 3<g ref="char:punc">▪</g> 5, 6.</note> ſtandeth not in the following of <hi>Adam,</hi> as the Pelagians do vainly talk<note n="b" place="margin">Job 14.4. Job. 15.14. Rom. 6.6<g ref="char:punc">▪</g> Joh. 3.3, 5.7.</note>
+                  <g ref="char:punc">▪</g> But, together with his firſt ſin imputed<note n="c" place="margin">Rom<g ref="char:punc">▪</g> 5.12, to 19. 1 Gen. 2.17. with 1 Cor. 15.22.</note>, it is the fault and corruption of the nature of every man, that naturally is propagated from <hi>Adam;</hi> whereby man is wholly deprived of Original righteouſ<g ref="char:EOLhyphen"/>neſſe<note n="d" place="margin">Col. 2.13. Rom. 7.18. Eccleſ. 7.29.</note>, and is of his own nature inclined onely to evil<note n="e" place="margin">Gen. 6.5. Gen. 8.21. Jer. 17.9. Rom. 7.8. Jam<g ref="char:punc">▪</g> 1.14.</note>. So that the luſt of the fleſh, called in Greek <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſome do expound the Wiſdom, ſome Senſuality, ſome the Affe<g ref="char:EOLhyphen"/>ction, ſome the Deſire of the fleſh, is not ſub<g ref="char:EOLhyphen"/>ject to the Law of God<note n="f" place="margin">Rom. 8.7. 1 Cor. 2.14. Col. 1.27.</note>, and therefore in every perſon born into this world, it deſerveth Gods wrath and damnation<note n="g" place="margin">Epheſ. 2.3. Rom. 8.6.</note>. And this infection of nature doth remain, yea in them that are rege<g ref="char:EOLhyphen"/>nerate<note n="h" place="margin">Prov. 20.9. Rom. 7.17, 20, 23, 25.4.</note>, whereby the fleſh luſteth always con<g ref="char:EOLhyphen"/>trary to the Spirit<note n="i" place="margin">Gal. 5.17.</note>. And although there is no condemnation for them that are regenerate and
+<pb n="8" facs="tcp:164383:5"/>
+                  <!-- PDF PAGE 17 -->do believe<note n="k" place="margin">Rom. 8.1, 13. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 3.18.</note>; yet the Apoſtle doth confeſſe that concupiſcence and luſt is truely and properly ſin<note n="l" place="margin">Rom. 7.17.20.</note>.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>ART. 10.</hi> Of Free-will.</head>
+               <p>The condition of man after the fall of <hi>Adam</hi> is ſuch, that he cannot turn or prepare himſelf, by his own natural ſtrength and good works, to fai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h and calling upon God<note n="a" place="margin">Eph. 2.1, 5. 1 Cor. 2.14. Eph. 2.8, 9, 10. Joh. 6.44, 65.</note>; wherefore we have no power to do good works pleaſing and acceptable to God<note n="b" place="margin">Rom. 8.8. Heb. 11.6.</note>, without the grace of God by Chriſt, both preventing us, that we may have a good Will, and working ſo effectually in us, as that it determineth our Will to that which is good<note n="c" place="margin">Ezek. 11.19, 20. Ez<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k. 36.26, 27. Jer. 31.32, 33. with Heb. 8.10, 11. Phil. 2.12, 13. Joh. 6.45. Eph. 1.19, 20. 1 Cor. 4.7.</note>, and alſo working with us when we have that will unto good<note n="d" place="margin">Heb. 13.21. Phil. 1.6. Heb. 12.2. 1 Pet. 5.10. 1 Theſſ. 5.23, 24. 1 Kings 8.57, 58.</note>.</p>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>ART. II.</hi> Of the Justification of man before God.</head>
+               <p>We are juſtified, that is, we are accounted righ<g ref="char:EOLhyphen"/>teous before God, and have remiſſion of ſins<note n="a" place="margin">Rom. 4.5, 6, 7 Pſal. 32.1, 2.</note>, not for nor by our own works or deſervings<note n="b" place="margin">Rom. 3.20. Gal. 2.16. Gal. 3.10, 11. Phil. 3.9.</note>, but freely by his grace<note n="c" place="margin">Rom. 3.24. Tit. 3.7.</note>, onely for our Lord and Saviour Jeſus Chriſts ſake<note n="d" place="margin">Rom. 3.24, 25. Rom. 5.1. 2 Cor. 5.18, 19.</note>, his whole obedience and ſatisfaction being by God imputed unto us<note n="e" place="margin">Rom. 5.9, 17, 18, 19. Rom. 3.25, 26. Rom. 4.6, 24. 2 Cor. 5.21.</note>,
+<pb n="9" facs="tcp:164383:5"/>
+                  <!-- PDF PAGE 17 -->and Chriſt with his righteouſneſſe, being appre<g ref="char:EOLhyphen"/>hended and reſted on by faith onely<note n="f" place="margin">Rom. 3.22, 25, 26, 28. Gal. 2.16. Iſa. 28.16. with Rom. 9.33. and 1 Pet. 2.6. Phil. 3.9.</note>. The Do<g ref="char:EOLhyphen"/>ctrine of Juſtification by Faith onely, is an whol<g ref="char:EOLhyphen"/>ſom Doctrine, and very full of comfort<note n="g" place="margin">2 Tim. 1.13. Rom. 5.1, 2, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 11. Rom. 15.13. 1 Pet. 1.8.</note>: not<g ref="char:EOLhyphen"/>withſtanding God doth not forgive them that are impenitent, and go on ſtill in their treſpaſſes<note n="h" place="margin">Pſal. 68.20, 21. Exod 34.6, 7. Luke 13.3, 5.</note>.</p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>ART. 12.</hi> Of good works.</head>
+               <p>Good works, which are the Fruits of Faith<note n="a" place="margin">Gal 5.6. Jam. 2.17, 18, 22.</note>, and follow after Juſtification<note n="b" place="margin">Tit. 2.14. Tit. 3.7, 8. Eph. 2.8, 9, 10.</note>, cannot put away our ſins<note n="c" place="margin">Rom. 3.20, 21. Rom. 4.4, to 9. Dan. 9.18, 19.</note>, and endure the ſeverity of Gods Judgement; yet are they, notwithſtanding their imperfections<note n="e" place="margin">Exod. 28.38. Rev. 8.3, 4.</note>, in the ſight of God plea<g ref="char:EOLhyphen"/>ſing and acceptable unto him in and for Chriſt<note n="f" place="margin">1 Pet. 2.5. Heb. 13.16, 20, 21. Col. 1.10. Phil. 4.18.</note>, and do ſpring out neceſſarily of a true and lively Faith<note n="g" place="margin">Jam. 2.26. 1 Joh. 1.4.</note>, inſomuch that by them a lively Faith may be evidently known,<note n="d" place="margin">Neh. 13.22. Pſal. 143.2. Job 9.14, 15, 19, 20.</note> as a tree diſcerned by the fruits<note n="h" place="margin">Jam. 2.18, 22. Joh. 15.4, 5. 1 Joh. 2.3, 5. Matth. 12.33.</note>.</p>
+            </div>
+            <div n="13" type="article">
+               <head>
+                  <hi>ART. 13.</hi> Of Works before Juſtification.</head>
+               <p>Works done before Juſtification by Chriſt, and Regeneration by his Spirit, are not pleaſing unto God<note n="a" place="margin">Tit. 1.15, 16. Matth. 7.1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Rom. 8.8. Prov. 15.8, 26. Prov. 21.27. Rom. 3.12.</note>, foraſmuch as they ſpring not of Faith
+<pb n="10" facs="tcp:164383:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 18 -->in Jeſus Chriſt<note n="b" place="margin">Heb. 11.5, 6. Gal. 5.6.</note>; neither do they make men meet to receive grace, or (as the School-Authours ſay) deſerve grace of congruity<note n="c" place="margin">
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tim. 1.9. Joh. 1.13.</note>; yea rather, for that they are not done as God hath willed and commanded them to be done, they are ſin<g ref="char:EOLhyphen"/>ful<note n="d" place="margin">Rom. 8.7, 8. Hag. 2.14. Iſa. 58.1, to 5. Iſa. 66.2, 3.</note>.</p>
+            </div>
+            <div n="14" type="article">
+               <head>
+                  <hi>ART. 14.</hi> Of Works of Supererogation.</head>
+               <p>Voluntary Works beſides, over and above Gods Commandments, which they call <hi>Works of Supererogation,</hi> cannot be taught<note n="a" place="margin">Matth. 5.48. Mar. 12.30, 31. Phil. 4.8, 9.</note> without arro<g ref="char:EOLhyphen"/>gancy and impiety<note n="b" place="margin">Job 9.2, 3, 20, 21. Pſal. 143.2. Prov. 20.9. Phil. 3.8, 10 15.</note>: for by them men do de<g ref="char:EOLhyphen"/>clare that they do not onely render unto God as much as they are bound to do; but that they do more for his ſake then of bounden duty is re<g ref="char:EOLhyphen"/>quired: whereas Chriſt ſaith plainly, <hi>When you have done all thoſe things that are commanded you, ſay, We are unprofitable ſervants, we have done that which was our duty to do</hi>
+                  <note n="c" place="margin">Luke 19.10. with verſ. 7, 8, 9.</note>.</p>
+            </div>
+            <div n="15" type="article">
+               <head>
+                  <hi>ART. 15.</hi> Of Chriſt alone without ſin.</head>
+               <p>Chriſt in the truth of our nature, was made like unto us in all things, ſin onely excepted<note n="a" place="margin">Iſa. 53 3, 4, 5. Heb. 2.17. with Heb. 4.15.</note>, from which he was clearly void both in his fleſh and in his ſpirit<note n="b" place="margin">Luke 1.35. with Act. 3.14. Joh. 14.30. 2 Cor. 5.21. Heb. 7.26.</note>: he came to be the Lamb
+<pb n="11" facs="tcp:164383:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 18 -->without ſpot<note n="c" place="margin">1 Pet. 1.19.</note>, who by ſacrifice of himſelf<note n="d" place="margin">Eph. 5.2.</note> once made<note n="e" place="margin">Heb. 9.26, 28. Heb. 10.10, 12</note>, ſhould take away the ſins of the world<note n="f" place="margin">Joh. 1.29.</note>; and ſin (as Saint <hi>John</hi> ſaith) was not in him<note n="g" place="margin">1 Joh. 3.5.</note>. But all we the reſt, although baptized and re<g ref="char:EOLhyphen"/>generate, yet offend in many things; and <hi>if we ſay we have no ſin, we deceive our ſelves, and the truth is not in us</hi>
+                  <note n="h" place="margin">Jam. 3.2. 1 Joh. 1.8, 10.</note>.</p>
+            </div>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>CHARLES HERLE</hi> Prolocutor.</item>
+                     <item>
+                        <hi>HENRY ROBROUGH</hi> Scriba.</item>
+                     <item>
+                        <hi>ADONIRAM BYFIELD</hi> Scriba.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
